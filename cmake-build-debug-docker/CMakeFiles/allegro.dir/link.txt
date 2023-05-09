@@ -1,0 +1,1 @@
+/usr/bin/cc -L/usr/local/lib -lalleg -lm -g   CMakeFiles/allegro.dir/main.c.o  -o allegro 
